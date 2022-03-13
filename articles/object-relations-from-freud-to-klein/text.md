@@ -24,7 +24,8 @@ Melanie Klein was one of Karl Abraham’s students, who made great advancements 
 - elaborate unconscious fantasy apart from specific and conscious compensation of frustrated desire;
 - A reservoir of unconscious images and knowledge for phantasy to draw on, possessed by child by virtue of a phylogenic inheritance;
 - Phantasy, which serves not as a substitute for, but as an accompaniment to, actual gratification.
-- Freud's notion of parents' inner "voices", described as images and values, is limited within the boundaries of the super-ego. Klein's development of that concept is related to her usage of phantasy with a broader meaning. According to her description of the Oedipus complex, a child's life is full of elaborate, mostly sadistic and erotic phantasies directed at his parents.
+
+Freud's notion of parents' inner "voices", described as images and values, is limited within the boundaries of the super-ego. Klein's development of that concept is related to her usage of phantasy with a broader meaning. According to her description of the Oedipus complex, a child's life is full of elaborate, mostly sadistic and erotic phantasies directed at his parents.
 
 An important distinction to make is that in Freud's metapsychology, drives have no knowledge of reality and nature of the objects, which underlines the id's pleasure principle. This "objectlessness" persists until the object presents itself to the newborn and becomes associated with the drive gratification. For Klein, drives have inherent, a priori images of the outside world which seek gratification through either love or destruction (Greenberg & Mitchell, 1983). It is easy to notice a certain Jungian influence in such formulations.
 
