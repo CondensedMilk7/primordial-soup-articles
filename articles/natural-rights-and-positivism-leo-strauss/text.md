@@ -1,9 +1,9 @@
-# Natural Rights and Positivism -- Leo Strauss
+# Natural Rights and Positivism - Leo Strauss
 
 In the last video, I discussed the relationship between historicism and
 natural right according to Leo Strauss. And showed the fruits that this
 relationship bears. However, I have not yet discussed the relationship
-between natural right and Positivism -- another equally powerful enemy
+between natural right and Positivism - another equally powerful enemy
 of natural right alongside Historicism.
 
 In the last video, I have already defined the concept of a natural right
@@ -84,55 +84,55 @@ ideal i.e. to reject any value judgment and limit itself to facts only?
 Strauss demonstrates four major considerations, which speak decisively
 about the theoretical weaknesses of social science positivism:
 
-1.  "It is impossible to study social phenomena i.e. all important
-    social phenomena, without making value judgments... Because,
-    generally speaking, it is impossible to understand thought or action
-    without evaluating it" (Strauss, 1988, p. 21). Besides this, as
-    Strauss ads, one must not overlook the invisible value judgments
-    that are necessarily presupposed by any social scientist; value
-    judgments of significant importance, yet often concealed from
-    undiscerning eyes. For example, a fundamental distinction between
-    \"ethos" and \"techniques of living (or \"prudential" rules). Any
-    sociologist must recognize and appreciate a distinctive character of
-    an ethos (he is studying). But such appreciation necessarily implies
-    a value judgment. The same may be said of morality, religion,
-    politics, art, civilization, etc.
+1. "It is impossible to study social phenomena i.e. all important
+   social phenomena, without making value judgments... Because,
+   generally speaking, it is impossible to understand thought or action
+   without evaluating it" (Strauss, 1988, p. 21). Besides this, as
+   Strauss ads, one must not overlook the invisible value judgments
+   that are necessarily presupposed by any social scientist; value
+   judgments of significant importance, yet often concealed from
+   undiscerning eyes. For example, a fundamental distinction between
+   \"ethos" and \"techniques of living (or \"prudential" rules). Any
+   sociologist must recognize and appreciate a distinctive character of
+   an ethos (he is studying). But such appreciation necessarily implies
+   a value judgment. The same may be said of morality, religion,
+   politics, art, civilization, etc.
 
-2.  As we have already mentioned, "the rejection of value judgments is
-    based on assumption that the conflict between different values or
-    value-systems is essentially insoluble for human reason. But this
-    assumption, while generally taken to be sufficiently established,
-    has never been proven" (Strauss, 1988, p. 22).
+2. As we have already mentioned, "the rejection of value judgments is
+   based on assumption that the conflict between different values or
+   value-systems is essentially insoluble for human reason. But this
+   assumption, while generally taken to be sufficiently established,
+   has never been proven" (Strauss, 1988, p. 22).
 
-3.  Another reason, why positivists look down on value judgments, is
-    their belief that scientific knowledge is the highest form of human
-    knowledge. Because of this, they depreciate pre-scientific, common
-    sense knowledge. However, this superstitious distrust towards
-    pre-scientific knowledge fosters all sorts of sterile investigations
-    or complicated idiocies. Futile discussions that eventually lead to
-    nowhere. This is because any study in social science presupposes
-    knowledge about basic common sense distinctions. "To illustrate this
-    by the simplest example: all studies in social science presuppose
-    that its devotees can tell human beings from other beings". And
-    everyone can agree that this fundamental knowledge was not acquired
-    by them in classrooms; moreover "this knowledge is not transformed
-    by social science into scientific knowledge, but retains its initial
-    status without any modification throughout" (Strauss, 1988, p. 23).
-    In other words, it never ascends from the status of pre-scientific
-    knowledge to the status of scientific knowledge.
+3. Another reason, why positivists look down on value judgments, is
+   their belief that scientific knowledge is the highest form of human
+   knowledge. Because of this, they depreciate pre-scientific, common
+   sense knowledge. However, this superstitious distrust towards
+   pre-scientific knowledge fosters all sorts of sterile investigations
+   or complicated idiocies. Futile discussions that eventually lead to
+   nowhere. This is because any study in social science presupposes
+   knowledge about basic common sense distinctions. "To illustrate this
+   by the simplest example: all studies in social science presuppose
+   that its devotees can tell human beings from other beings". And
+   everyone can agree that this fundamental knowledge was not acquired
+   by them in classrooms; moreover "this knowledge is not transformed
+   by social science into scientific knowledge, but retains its initial
+   status without any modification throughout" (Strauss, 1988, p. 23).
+   In other words, it never ascends from the status of pre-scientific
+   knowledge to the status of scientific knowledge.
 
-4.  And finally, Positivism necessarily transforms itself into
-    historicism. By virtue of its orientation by the model of natural
-    science, social science is in danger of mistaking peculiarities of,
-    say, mid-twentieth century United States, or more generally of
-    modern Western society, for the essential character of human
-    society. To avoid this danger, it is compelled to engage in
-    \"cross-cultural research,\" in the study of other cultures, both
-    present and past. But in making this effort, it misses the meaning
-    of those other cultures, because it interprets them through a
-    conceptual scheme which originates in modern Western society, which
-    reflects that particular society, and which fits at best only that
-    particular society" (Strauss, 1988, p. 25).
+4. And finally, Positivism necessarily transforms itself into
+   historicism. By virtue of its orientation by the model of natural
+   science, social science is in danger of mistaking peculiarities of,
+   say, mid-twentieth century United States, or more generally of
+   modern Western society, for the essential character of human
+   society. To avoid this danger, it is compelled to engage in
+   \"cross-cultural research,\" in the study of other cultures, both
+   present and past. But in making this effort, it misses the meaning
+   of those other cultures, because it interprets them through a
+   conceptual scheme which originates in modern Western society, which
+   reflects that particular society, and which fits at best only that
+   particular society" (Strauss, 1988, p. 25).
 
 Presumably, if one takes into consideration these theoretical problems,
 it becomes hard to accept positivism as a viable option for social
